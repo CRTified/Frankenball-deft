@@ -1,0 +1,3 @@
+[submodule "hardware/kicad-hierarchical-blocks"]
+	path = hardware/kicad-hierarchical-blocks
+	url = git@github.com:CRTified/kicad-hierarchical-blocks.git
