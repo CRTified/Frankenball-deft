@@ -1,3 +1,4 @@
 (fp_lib_table
   (lib (name "Library")(type "KiCad")(uri "${KIPRJMOD}/Library")(options "")(descr ""))
+  (lib (name "hierarchical-blocks")(type "KiCad")(uri "${KIPRJMOD}/kicad-hierarchical-blocks/Libraries/footprints.pretty")(options "")(descr ""))
 )
